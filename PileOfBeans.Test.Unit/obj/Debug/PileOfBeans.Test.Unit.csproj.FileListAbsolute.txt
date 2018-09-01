@@ -1,0 +1,9 @@
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.Test.Unit.dll
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.Test.Unit.pdb
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.dll
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\bin\Debug\eBags.PileOfBeans.pdb
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\PileOfBeans.Test.Unit.csprojResolveAssemblyReference.cache
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\PileOfBeans.Test.Unit.csproj.CoreCompileInputs.cache
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\eBags.PileOfBeans.Test.Unit.dll
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans.Test.Unit\obj\Debug\eBags.PileOfBeans.Test.Unit.pdb

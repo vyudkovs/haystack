@@ -1,0 +1,6 @@
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.dll
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans\bin\Debug\eBags.PileOfBeans.pdb
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\PileOfBeans.csprojResolveAssemblyReference.cache
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\PileOfBeans.csproj.CoreCompileInputs.cache
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.dll
+C:\test\eBags_HaystackDeveloperChallenge\PileOfBeans\obj\Debug\eBags.PileOfBeans.pdb
